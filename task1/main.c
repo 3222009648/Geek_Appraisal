@@ -6,7 +6,7 @@ int main(){
          double z=a-y;
          double t=0;
          double w;
-         double m=1.0;
+         double m=25;
          
          while(z>0.001*h&&w<m){
             y=a-a*h;
