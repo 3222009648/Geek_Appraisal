@@ -1,7 +1,7 @@
 #include <stdio.h> 
 int main(){
          double h=0.001;
-         double a=3.14;
+         double a=1;
          double y;
          double z=a-y;
          double t=0;
